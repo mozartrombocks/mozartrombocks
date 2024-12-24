@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mozartrombocks
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning machinelearning, webdevelopment, gamedevelopement, cybersecurity
+- 🌱 I’m currently learning software development, machinelearning, webdevelopment 
 - 💞️ I’m looking to collaborate on any one of those topics mentioned above
 - 📫 How to reach me ...
        email: shadman9702@gmail.com 
